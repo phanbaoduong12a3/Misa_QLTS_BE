@@ -1,0 +1,60 @@
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.deps.json
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.dll
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.pdb
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.Common.dll
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.Common.pdb
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.AssemblyReference.cache
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.AssemblyInfoInputs.cache
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.AssemblyInfo.cs
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.CoreCompileInputs.cache
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.CopyComplete
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.dll
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\refint\MISA.QLTS.DL.dll
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.pdb
+D:\web\MisaVue\MISA.QLTS\MISA.QLTS.DL\obj\Debug\net6.0\ref\MISA.QLTS.DL.dll
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.deps.json
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.dll
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.pdb
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.Common.dll
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.Common.pdb
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.AssemblyReference.cache
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.AssemblyInfoInputs.cache
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.AssemblyInfo.cs
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.CoreCompileInputs.cache
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.CopyComplete
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.dll
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\refint\MISA.QLTS.DL.dll
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.pdb
+D:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\ref\MISA.QLTS.DL.dll
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.deps.json
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.dll
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.pdb
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.Common.dll
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.Common.pdb
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.AssemblyReference.cache
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.AssemblyInfoInputs.cache
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.AssemblyInfo.cs
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.CoreCompileInputs.cache
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.CopyComplete
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.dll
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\refint\MISA.QLTS.DL.dll
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.pdb
+E:\Thực tập tốt nghiệp\misa-web11-annv\MISA.QLTS.DL\obj\Debug\net6.0\ref\MISA.QLTS.DL.dll
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.deps.json
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.dll
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.DL.pdb
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.Common.dll
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\bin\Debug\net6.0\MISA.QLTS.Common.pdb
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.AssemblyReference.cache
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.AssemblyInfoInputs.cache
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.AssemblyInfo.cs
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.CoreCompileInputs.cache
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.csproj.CopyComplete
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.dll
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\obj\Debug\net6.0\refint\MISA.QLTS.DL.dll
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\obj\Debug\net6.0\MISA.QLTS.DL.pdb
+E:\Thực tập tốt nghiệp\misa-web11-duongpv\MISA.QLTS.DL\obj\Debug\net6.0\ref\MISA.QLTS.DL.dll
